@@ -2,6 +2,9 @@
 
 A Python Script to check the Surf Forecast
 
+## NOTE :
+* This code is a bit rough around the edges and may need a bit of effort to get working, use with a bit of caution, my newer code is a lot cleaner!
+
 <img src="https://github.com/Xioto/PythonSurfForecast/blob/main/docs/assets/img/logo.png" alt=" logo" width="500"/>
 
 [![GitHub Status](https://img.shields.io/github/checks-status/Xioto/PythonSurfForecast/main)](https://github.com/Xioto/PythonSurfForecast/)
